@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    color: #f0f0f0;
+}
+
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.buttons{
+    margin-top: 20px;
+    padding-top: 50px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.buttons button{
+    font-size: 20px;
+    color: white;
+    background-color: gray;
+    border: transparent;
+    border-radius: 20px;
+}
+
+h2{
+    transform: translateX(-150px);
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.cart{
+    transform: translateX(-166px);
+    margin-top: 230px;
+}
